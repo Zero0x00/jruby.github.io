@@ -20,6 +20,7 @@ GEM
     base64 (0.2.0)
     bigdecimal (3.1.6)
     builder (3.2.4)
+    bson (4.6.101-java)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -584,6 +585,7 @@ DEPENDENCIES
   rake
   rexml
   rouge
+  bson (= 4.6.101)
 
 BUNDLED WITH
    2.5.3
